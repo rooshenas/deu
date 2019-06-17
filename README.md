@@ -3,14 +3,14 @@
 
 
 
-Installing requirements:
+## Installing requirements:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
-To run the toy nested circles:
+## To run the toy nested circles:
 
-python main.py 
+`python main.py `
 
 Example output:
 
