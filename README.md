@@ -1,6 +1,6 @@
-# DEU
+# Differential Equation Units (DEUs)
 
-Differential Equation Units.
+
 
 
 Installing requirements:
